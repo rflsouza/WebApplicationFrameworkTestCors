@@ -55,7 +55,7 @@ Para configurar o IIS para permitir que um aplicativo ASP.NET receba e manipule 
     </system.webServer>
 
 # Nosso problema   
-Infelizmente
+Felizmente nosso problema era apenas uma configuração do IIS, como não tinhamos conhecimento da regra aplicada tivemos algumas voltas até achar! Mas fica a dica para validações :)
 
 ## Referencias
 
